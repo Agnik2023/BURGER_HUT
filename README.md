@@ -19,4 +19,4 @@ Welcome to **Burger Hut**, your go-to destination for delicious burgers and mout
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/burger-hut.git
+   https://github.com/Agnik2023/BURGER_HUT.git
