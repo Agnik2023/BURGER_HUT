@@ -1,22 +1,54 @@
-# Burger Hut
+# Berger Hut - Restaurant Website
 
-Welcome to **Burger Hut**, your go-to destination for delicious burgers and mouth-watering meals! This repository contains the source code for the Burger Hut food shop website, built using HTML and CSS.
+![Berger Hut Logo](iconlogo.png)
+
+## Overview
+
+Berger Hut is a responsive, modern website for a fictional gourmet burger restaurant. The site showcases the restaurant's offerings, ambiance, and provides functionality for customers to make reservations and contact the establishment.
 
 ## Features
 
-- **Homepage**: Features an overview of the shop, including popular burgers and special offers.
-- **Menu Page**: Displays a detailed menu with various burger options and meal combinations.
-- **About Page**: Provides information about Burger Hut, its history, and mission.
-- **Contact Page**: Includes a contact form and details for getting in touch with the shop.
+- **Responsive Design**: Fully responsive layout that works on desktop and mobile devices
+- **Modern UI**: Clean and attractive interface with a dark theme
+- **Interactive Navigation**: Smooth scrolling to different sections of the website
+- **Menu Showcase**: Visual display of signature burger offerings
+- **Reservation System**: Form for customers to make table reservations
+- **Testimonials**: Customer reviews section
+- **Photo Gallery**: Showcase of restaurant ambiance and food
+- **Contact Form**: Easy way for customers to send messages
+
+## Sections
+
+1. **Hero Section**: Welcoming banner with call-to-action
+2. **About**: Information about the restaurant's philosophy and values
+3. **Menu**: Display of featured burger options with descriptions
+4. **Reservations**: Form to book a table
+5. **Testimonials**: Customer reviews
+6. **Gallery**: Photo showcase
+7. **Contact**: Location information and contact form
 
 ## Technologies Used
 
-- **HTML**: Structuring the content of the website.
-- **CSS**: Styling the website to create a visually appealing layout and design.
+- HTML5
+- CSS3
+- Responsive design principles
 
+## Setup and Installation
 
-### Steps
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/berger-hut.git
+   ```
 
-1. **Clone the Repository**:
-   ```bash
-   https://github.com/Agnik2023/BURGER_HUT.git
+2. Open the project in your preferred code editor
+
+3. Launch the website by opening `index.html` in a web browser
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- Images sourced from [placeholder for image source]
+- Inspiration from modern restaurant websites
