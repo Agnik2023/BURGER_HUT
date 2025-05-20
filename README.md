@@ -1,9 +1,5 @@
 # Berger Hut - Restaurant Website
 
-![Berger Hut Logo](iconlogo.png)
-
-## Overview
-
 Berger Hut is a responsive, modern website for a fictional gourmet burger restaurant. The site showcases the restaurant's offerings, ambiance, and provides functionality for customers to make reservations and contact the establishment.
 
 ## Features
